@@ -1,0 +1,21 @@
+{
+  "name": "node-js-npm",
+  "version": "1.0.0",
+  "description": "Belajar node js npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Broyzdev0/node-js-npm.git"
+  },
+  "author": "Angga Nur Gunawan",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Broyzdev0/node-js-npm/issues"
+  },
+  "homepage": "https://github.com/Broyzdev0/node-js-npm#readme"
+}
